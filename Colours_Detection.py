@@ -2,6 +2,8 @@ import cv2
 import numpy as np
 import imutils
 
+#Andrew Marines
+
 lowerRED=np.array([0,50,50])
 upperRED=np.array([10,255,255])
 
@@ -90,3 +92,9 @@ while True:
     cv2.imshow("VERDE",maskCloseGREEN)
     cv2.imshow("BIANCO",maskCloseWHITE)
     cv2.imshow("cam",img)
+    
+    
+    
+    
+    
+#Andrew Marines
